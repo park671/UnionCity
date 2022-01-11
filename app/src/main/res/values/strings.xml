@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">淄博公交卡工具</string>
+    <string name="charge_money_limit">非实名制卡内余额不得超过1000元，实名制卡内余额不得超过5000元</string>
+</resources>
